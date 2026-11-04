@@ -1,13 +1,11 @@
 # **Capstone 1**
 ## **East Region In-Store Sales Analysis**
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## **Project Overview**
 
 This project analyzes in-store sales for EmporiUm, a student bookstore chain. The analysis focuses on the East Region, which includes both New York and Connecticut. 
 The purpose of this project is to understand sales performance, identify trends, compare store results, and provide business recommendations based on the data. 
+
 
 ## **Business Questions**
 The analysis answers the following questions:
@@ -49,12 +47,14 @@ East_Region_Monthly_Revenue.csv- contains the monthly revenue results exported f
 Hizkias_East_Region_Monthly_Revenue.xlsx- contains the Excel PivotTable and PivotChart.
 
 
-## **Programs I Used**
-My SQL Workbench- For querying and analyzing the sales database.
+## **Tools**
+MySQL Server
 
-Microsoft Excel- For creating the PivotTable and PivotChart.
+MySQL Workbench
 
-GitHub- For storing and organizing the project files.
+Microsoft Excel
+
+GitHub
 
 
 ## **Video Presentation**
